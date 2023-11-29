@@ -1,0 +1,19 @@
+<mj-section background-url="https://i.ibb.co/9gBw2XC/sweater-2.png">
+  <mj-column>
+    <mj-image
+      padding-right="150px"
+      css-class="logo"
+      width="350px"
+      src="https://i.ibb.co/b2ZcdnR/nike-sb-logo-1.png"
+    ></mj-image>
+  </mj-column>
+  <mj-column>
+    <mj-image
+      padding-left="150px"
+      css-class="kicks"
+      width="100px"
+      padding="5px"
+      src="https://i.ibb.co/5BZRjpX/pixel-logo.png"
+    ></mj-image>
+  </mj-column>
+</mj-section>

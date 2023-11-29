@@ -1,0 +1,12 @@
+<mj-section>
+
+  <mj-column>
+    <mj-text align="center" color="808080" font-size="11">
+     This Privacy Policy (“Policy”) applies to the personal information that Nike, Inc. collects and processes when you interact with us as a customer, including when you interact with our websites, digital experiences, mobile apps, stores, online or offline events, promotions, or one of our other products or services, all of which are part of Nike’s “Platform” and direct to this Privacy Policy. This Policy also applies to the personal information that Nike processes when you subscribe to receive marketing communications from us, communicate with us or engage with us via our Platform, or participate in contests, sweepstakes, and surveys.
+    </mj-text>
+     <mj-text align="center" color="808080" font-size="15" font-weight="500">
+   © Nike inc
+    </mj-text>
+  </mj-column>
+
+</mj-section>

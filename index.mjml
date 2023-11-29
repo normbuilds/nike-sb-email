@@ -1,0 +1,86 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#8080" />
+    </mj-attributes>
+    <mj-style>
+      @media only screen and (max-width: 480px) { .kicks { display: none; }
+      .logo { width: 250px; margin: auto; display: flex; justify-content:
+      center; } .sprites { display: none; } }
+    </mj-style>
+    <mj-font
+      name="poppins"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#eee">
+    <mj-include path="./header.mjml" />
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center" font-family="poppins">
+          <h1>Congratulations</h1>
+        </mj-text>
+        <mj-text align="center" font-family="poppins">
+          <h1>You Win!</h1>
+        </mj-text>
+        <mj-image
+          href="https://www.nike.com/"
+          width="500px"
+          src="https://i.ibb.co/wg3DSVC/hero.png"
+        >
+        </mj-image>
+        <mj-button
+          font-family="poppins"
+          background-color="#C60D49"
+          width="269px"
+          height="56px"
+          font-size="18px"
+          href="#"
+          >Claim Your Prize!</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#65A29B">
+      <mj-column>
+        <mj-text align="left" color="#fff" font-size="18px" line-height="1.2">
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
+          scrambled it to make a type specimen book. It ha
+        </mj-text>
+        <mj-text align="left" color="#fff" font-size="18px" line-height="1.2">
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
+          scrambled it to make a type specimen book. It ha
+        </mj-text>
+        <mj-button
+          font-family="poppins"
+          background-color="#744C9F"
+          width="250px"
+          height="56px"
+          font-size="18px"
+          href="#"
+          >Claim Your Prize!</mj-button
+        >
+      </mj-column>
+      <mj-column padding="20px">
+        <mj-image
+          css-class="sprites"
+          width="200px"
+          src="https://i.ibb.co/JvqBxNX/hux04-1.png"
+        ></mj-image>
+        <mj-image
+          css-class="sprites"
+          width="200px"
+          src="https://i.ibb.co/89QcDmV/hux02-2.png"
+        ></mj-image>
+        <mj-image
+          width="200px"
+          src="https://i.ibb.co/cQrxmnZ/hux03-1.png"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>
