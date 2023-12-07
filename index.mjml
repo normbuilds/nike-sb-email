@@ -17,10 +17,10 @@
     <mj-include path="./header.mjml" />
     <mj-section background-color="#fff">
       <mj-column>
-        <mj-text align="center" font-family="poppins">
+        <mj-text align="center" font-family="poppins" font-size="20px" color="#000">
           <h1>Congratulations</h1>
         </mj-text>
-        <mj-text align="center" font-family="poppins">
+        <mj-text align="center" font-family="poppins" font-size="20px" color="#000">
           <h1>You Win!</h1>
         </mj-text>
         <mj-image
